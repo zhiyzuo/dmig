@@ -8,8 +8,7 @@ about: We are a reading group at the University of Iowa, with faculty and studen
 future : true 
 
 master_repo: false
-#url: #"http://zhiyzuo.github.io/dmig-page"
-url: "http://localhost"
+url: "http://zhiyzuo.github.io/dmig-page"
 markdown: kramdown
 highlighter: rouge
 
