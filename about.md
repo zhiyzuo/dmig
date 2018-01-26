@@ -1,10 +1,9 @@
 ---
 layout: default
-title: About Vinit Kumar
+title: About DMIG
 ---
 
 <h1 class="owner-name">{{ site.owner.name}} </h1>
-![user-avatar]({{ site.owner.avatar }})
 
 {{site.about}}
 
